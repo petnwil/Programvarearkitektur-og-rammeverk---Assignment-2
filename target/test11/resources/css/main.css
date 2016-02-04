@@ -1,0 +1,17 @@
+body{
+    background-color: ghostwhite;
+}
+
+h2{
+    position: center;
+}
+
+.mainContent{
+    margin-top: 10%;
+    margin-left: 35%;
+}
+
+button{
+    height: 20px;
+    width: 150px;
+}
