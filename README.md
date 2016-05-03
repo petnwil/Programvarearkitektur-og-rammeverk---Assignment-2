@@ -1,4 +1,4 @@
-# Programvarearkitektur-og-rammeverk---Assignment-2
+# Programvarearkitektur og rammeverk  - Assignment 2
 
 <h3>First Spring MVC application, banking system </h3>
 
@@ -16,7 +16,7 @@ You can put in any static information for the account balance.</p>
 <h3>Requirements:</h3>
 <li> 1.System diagram showing the system architecture (please google for System diagram)</li>
 <li> 2.Implement using ONLY "Spring MVC framework".</li>
-<li> 3.I need atleast 2 view classes, 1 model class and 1 controller class </li> 
+<li> 3.I need at least 2 view classes, 1 model class and 1 controller class </li> 
 </div>
 
 
